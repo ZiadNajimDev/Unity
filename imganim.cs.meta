@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: f41fed1d18590484da716c56a1858476
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177687
+  packageName: Hardest Game Project
+  packageVersion: 1.1
+  assetPath: Assets/hardest_game_project/Scripts/imganim.cs
+  uploadId: 404325

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 2533907e451b20840a7f96d8e483235d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 177687
+  packageName: Hardest Game Project
+  packageVersion: 1.1
+  assetPath: Assets/hardest_game_project/Scripts/rotator.cs
+  uploadId: 404325

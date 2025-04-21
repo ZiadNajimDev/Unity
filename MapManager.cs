@@ -1,0 +1,14 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace hardest_game_project
+{
+    public class MapManager : MonoBehaviour
+    {
+        // Start is called before the first frame update
+        void Start()
+        {
+        }
+    }
+}
